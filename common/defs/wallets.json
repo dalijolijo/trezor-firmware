@@ -78,6 +78,9 @@
         "Electrum-LTC": "https://electrum-ltc.org",
         "Exodus": "https://www.exodus.io"
     },
+    "bitcoin:MEC": {
+        "Magnum": "https://magnumwallet.co"
+    },
     "bitcoin:MONA": {
         "Electrum-MONA": "https://electrum-mona.org"
     },
