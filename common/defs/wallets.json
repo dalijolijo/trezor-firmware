@@ -20,6 +20,9 @@
     "bitcoin:BTCP": {
         "BTCP Electrum": "https://github.com/BTCPrivate/electrum-btcp"
     },
+    "bitcoin:BTDX": {
+        "Magnum": "https://magnumwallet.co"
+    },
     "bitcoin:BTG": {
         "ElectrumG": "https://github.com/BTCGPU/electrum",
         "Exodus": "https://www.exodus.io"
